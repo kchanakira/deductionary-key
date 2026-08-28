@@ -1,0 +1,11 @@
+[
+  { "image": "man1.png", "name": "John" },
+  { "image": "man2.png", "name": "Nick" },
+  { "image": "man3.png", "name": "Eric" },
+  { "image": "man4.png", "name": "Tom" },
+  { "image": "woman1.png", "name": "Mary" },
+  { "image": "woman2.png", "name": "Lisa" },
+  { "image": "woman3.png", "name": "Sophia" },
+  { "image": "woman4.png", "name": "Anna" },
+  { "image": "woman5.png", "name": "Kate" }
+]
